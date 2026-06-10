@@ -8,8 +8,7 @@
   "server": {
     "ip": "REX1-5g5g.aternos.me:61095",
     "port": 61095,
-    "version": "1.26.2
-  ",
+    "version": "1.26.2",
     "try-creative": false
   },
   "position": {
