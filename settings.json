@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
-  "bot-account": {
-    "username": "Slobot00",
+  "bot-account": {AKF bot
+    "username": "AKFBOT",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
-  "server": {
-    "ip": "REX1-5g5g.aternos.me",
+  "server": {REX1-5g5g.aternos.me
+    "ip": "REX1-5g5g.aternos.me:61095",
     "port": 61095,
     "version": "26.1.2",
     "try-creative": false
@@ -18,7 +18,7 @@
     "z": 0
   },
   "utils": {
-    "auto-auth": {
+    "auto-auth": {true
       "enabled": true,
       "password": "chalol78"
     },
@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "im a AFK bot!"
       ]
     },
     "chat-log": true,
