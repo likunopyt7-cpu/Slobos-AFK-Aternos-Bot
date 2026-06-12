@@ -5,7 +5,7 @@
     "password": "",
     "type": "online"
   },
-  "server": {REX1-5g5g.aternos.me:61095,
+  "server":REX1-5g5g.aternos.me:61095,
     "ip": "REX1-5g5g.aternos.me:61095",
     "port": 61095,
     "version": "26.1.2",
@@ -18,7 +18,7 @@
     "z": 0
   },
   "utils": {
-    "auto-auth": {true,
+    "auto-auth": true,
       "enabled": true,
       "password": "chalol78"
     },
